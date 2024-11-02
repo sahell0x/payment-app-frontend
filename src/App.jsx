@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <Modal width={"500px"}><Button color={"blue"} onClick={()=>console.log("hi thre")}>click me</Button></Modal>
+     
+        <Button color={"blue"} onClick={()=>console.log("hi thre")}>click me</Button>
+        
     </>
   )
 }
