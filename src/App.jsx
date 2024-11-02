@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      
-        <Button color={"blue"} onClick={()=>console.log("hi thre")}>click me</Button>
+        <Button color="red" onClick={()=>console.log("hi thre")}>click me</Button>
         
     </>
   )
