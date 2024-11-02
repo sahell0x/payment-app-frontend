@@ -1,11 +1,11 @@
 import Heading from "./components/Heading";
+import Modal from "./components/Modal";
 function App() {
   
 
   return (
     <>
-      <Heading tittle={"hello there"}></Heading>
-      sdsad
+      <Modal width={"500px"}><h1>hello</h1></Modal>
     </>
   )
 }

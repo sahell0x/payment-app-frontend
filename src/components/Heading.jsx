@@ -1,5 +1,5 @@
 function Heading({tittle}){
-  return <div className="font-black text-xl">{tittle}</div>
+  return <div className="font-black text-4xl">{tittle}</div>
 }
 
 export default Heading;
