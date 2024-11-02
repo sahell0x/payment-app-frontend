@@ -1,9 +1,11 @@
+import Heading from "./components/Heading";
 function App() {
   
 
   return (
     <>
-      <h1>hi there</h1>
+      <Heading tittle={"hello there"}></Heading>
+      sdsad
     </>
   )
 }
